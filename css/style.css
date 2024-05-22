@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: beige;
+    background-color: rgb(243, 243, 243);
     font-family: "Roboto", sans-serif;
 }
 
@@ -14,7 +14,13 @@ body{
     margin: 0 auto;
 }
 
-/* Header */
+.content{
+    border-radius: 10px;
+    margin-top: 3%;
+    background-color: rgb(255, 255, 255);
+}
+
+/* header */
 header{
     background-color: white;
     padding: 1% 0% 1% 1%;
@@ -30,10 +36,13 @@ header{
     vertical-align: middle;
 }
 
-.bg-color{
-    background-color: white
+/* nav */
+.bg-nav{
+    padding: 2%;
+    border-bottom: 3px solid rgb(243, 243, 243);
 }
 
-main{
-    padding: 0.5%;
+/* main */
+.bg-main{
+    padding: 3%;
 }
