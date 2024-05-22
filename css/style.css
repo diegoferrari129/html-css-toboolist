@@ -38,7 +38,7 @@ header{
 
 /* nav */
 .bg-nav{
-    padding: 2%;
+    padding: 2% 0% 1% 5%;
     border-bottom: 3px solid rgb(243, 243, 243);
 }
 
